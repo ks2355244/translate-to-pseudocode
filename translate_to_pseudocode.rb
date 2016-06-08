@@ -31,3 +31,11 @@ end
 
 # __________________________
 # WRITE YOUR PSEUDOCODE HERE
+
+Script : Pick Up The Gold
+
+Pick gold into sachel.
+Gold count depends on grid size.
+Grid size sqm = x times y
+You'll miss one if size include 'g'.
+Calculate total pieces of gold you have pick up. 
